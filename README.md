@@ -13,6 +13,10 @@ Arduino-powered bot that holds the world record score for the GamePigeon Word Hu
 
 
 
+https://github.com/23jmo/WordHunt/assets/138326370/b34d42bc-ff43-49fc-9e24-50fcebccea5f
+
+
+
 
 
 ## Materials
