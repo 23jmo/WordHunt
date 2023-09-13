@@ -3,7 +3,7 @@
 
 Arduino-powered bot that holds the world record score for the GamePigeon Word Hunt game. 
 
-- 4x4 Board Record: 228k 
+- 4x4 Board Record (WR): 228k 
 - 5x5 Board Record: WIP
 
 
@@ -41,7 +41,7 @@ To use the bot yourself:
 7. Connect the Ground (Gnd) port of the two Arduino together
 8. Enable assistive touch on the phone that will be playing Word Hunt
 9. Connect Computer to Arduino Uno, Arduino Micro to iPhone (two arduinos already connected)
-10. Run the [] file on your Computer
+10. Run the WordHuntTrieArduino4x4.py file on your Computer
 11. Input the board by reading left to right, top to bottom 
 12. Once you hit enter, the bot will start playing the game!
 ```
